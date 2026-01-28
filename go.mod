@@ -1,4 +1,4 @@
-module github.com/nametake/golangci-lint-langserver
+module github.com/jasdel/golangci-lint-langserver
 
 go 1.25.1
 
